@@ -8,6 +8,7 @@
 * screenshot
 * uimodel
 * GMSModel
+* sineplot
 
 ## flatui
 扁平化界面:<br> 
