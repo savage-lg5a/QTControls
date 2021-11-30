@@ -50,3 +50,6 @@ ui基础框架：<br>
 <br>
 ![image](https://github.com/LG5A-104/QTControls/blob/master/GMSModel/GASModel/GASModel.png)
 
+## qt_thread_pool
+qt_thread_pool线程池：<br>
+<br>
